@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:06.577583+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z1401-industrial-techno-rhythms-opening/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "41689d6f590b4c29c34df3fd2dc5ee18a74346b55fdbadbe82b15a9924d96ccb",
+      "errors": []
+    },
+    {
+      "path": "midi/z1401-industrial-techno-rhythms-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "9331db5291015792f0c4d63e0b475af9f4f38fb3d8fb1d0f99331bca9ebbf19d",
+      "errors": []
+    },
+    {
+      "path": "midi/z1401-industrial-techno-rhythms-opening/drums.mid",
+      "bytes": 2986,
+      "sha256": "965e57dab9ba2eef5a9401edd751709a31bb1a59558530d982d3ebe58c47ddb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z1401-industrial-techno-rhythms-opening/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "914beca70008700957db4fff9020cf5010064bdb128ae0243ee393cecda3c79f",
+      "errors": []
+    },
+    {
+      "path": "midi/z1401-industrial-techno-rhythms-opening/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "82704cf87d0591bf89d0d36bfef80d5eee09ad4dcc4f82e4ffa8bd875d915a7f",
+      "errors": []
+    },
+    {
+      "path": "midi/z1401-industrial-techno-rhythms-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "f03a6e08c4775ec7baa6a8c0da22b2de590e40946a20883a857451d2eba013e8",
+      "errors": []
+    },
+    {
+      "path": "midi/z1401-industrial-techno-rhythms-opening/z1401-industrial-techno-rhythms-opening-combined.mid",
+      "bytes": 6038,
+      "sha256": "883f182fd090fe5c74ba084cef71a5e95a57e2b4cbaf2715a2f313e62ee4ad87",
+      "errors": []
+    },
+    {
+      "path": "midi/z1402-industrial-techno-rhythms-variation/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "e855eb2bf1c0b6174a79ce33c607802b27acff8649c673cbe84f3a898efd539b",
+      "errors": []
+    },
+    {
+      "path": "midi/z1402-industrial-techno-rhythms-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "fe2459bb915a103181f859ca96343945543d4c9c808a0b02d209721ee6df5add",
+      "errors": []
+    },
+    {
+      "path": "midi/z1402-industrial-techno-rhythms-variation/drums.mid",
+      "bytes": 2986,
+      "sha256": "965e57dab9ba2eef5a9401edd751709a31bb1a59558530d982d3ebe58c47ddb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z1402-industrial-techno-rhythms-variation/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "2bd3ea2cd8a180bffb47703d8f7595cb096eec506e74efdd93fb2c26f7e894cd",
+      "errors": []
+    },
+    {
+      "path": "midi/z1402-industrial-techno-rhythms-variation/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "b9106b66062e99690bfe8588d2153f4aa01284795ac7d65b7dc2078ce24cb8ef",
+      "errors": []
+    },
+    {
+      "path": "midi/z1402-industrial-techno-rhythms-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "600df944e7289cbbee1f027e35816238b80a91a7d8375ce2063a5a98a09e67e4",
+      "errors": []
+    },
+    {
+      "path": "midi/z1402-industrial-techno-rhythms-variation/z1402-industrial-techno-rhythms-variation-combined.mid",
+      "bytes": 6038,
+      "sha256": "6c989dded8c38a5c55f534b485fcdd81e89afcf41021eeaf4ccb70dd30023820",
+      "errors": []
+    },
+    {
+      "path": "midi/z1403-industrial-techno-rhythms-contrast/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "011202081145b8d8c0a38174b004b154955699f0d7863e40adcc946ace2ff316",
+      "errors": []
+    },
+    {
+      "path": "midi/z1403-industrial-techno-rhythms-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "cfaf54276b63e6408b19b092d50cf4eabdf8889e746c80594a9eb025e3633001",
+      "errors": []
+    },
+    {
+      "path": "midi/z1403-industrial-techno-rhythms-contrast/drums.mid",
+      "bytes": 2986,
+      "sha256": "965e57dab9ba2eef5a9401edd751709a31bb1a59558530d982d3ebe58c47ddb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z1403-industrial-techno-rhythms-contrast/principal_motif.mid",
+      "bytes": 782,
+      "sha256": "1b9b76c359b516d131a9c42246dd534834535509112197252b4e1ccc861fd50c",
+      "errors": []
+    },
+    {
+      "path": "midi/z1403-industrial-techno-rhythms-contrast/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "97b1e5612c4e624cb52d933b79ca6cf47e46730e775bde094dd87938fdbf9028",
+      "errors": []
+    },
+    {
+      "path": "midi/z1403-industrial-techno-rhythms-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "1809e632aa8a01c6d74ea435a03e6bc7d3a33b429006605311a8a646d59f2b94",
+      "errors": []
+    },
+    {
+      "path": "midi/z1403-industrial-techno-rhythms-contrast/z1403-industrial-techno-rhythms-contrast-combined.mid",
+      "bytes": 6004,
+      "sha256": "c738273361f727ab26256492c0279724b502609c69c6322f499906a90d7a0356",
+      "errors": []
+    },
+    {
+      "path": "midi/z1404-industrial-techno-rhythms-return/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "c7a50c960f4c293e0e3e8d33e71cdfd4452563495c69e34b071991f48c06616b",
+      "errors": []
+    },
+    {
+      "path": "midi/z1404-industrial-techno-rhythms-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "e081da29cc5dae18ad0d3e94a8ccd9193034ca010ab02d1e131698335974436f",
+      "errors": []
+    },
+    {
+      "path": "midi/z1404-industrial-techno-rhythms-return/drums.mid",
+      "bytes": 2986,
+      "sha256": "965e57dab9ba2eef5a9401edd751709a31bb1a59558530d982d3ebe58c47ddb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z1404-industrial-techno-rhythms-return/principal_motif.mid",
+      "bytes": 782,
+      "sha256": "7f25e1fef30d06d5c7afdedfe4ffba1a8854dd606d75a0f2da15c44f5232e9de",
+      "errors": []
+    },
+    {
+      "path": "midi/z1404-industrial-techno-rhythms-return/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "f6c8740175d98900a19189bcf197586f80c8e92619f8e6f7902d374dec51c6b0",
+      "errors": []
+    },
+    {
+      "path": "midi/z1404-industrial-techno-rhythms-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "c6a0441d965f1fc260a1d331c871d8f33414994e81796ec0db5753fbcf6abe8b",
+      "errors": []
+    },
+    {
+      "path": "midi/z1404-industrial-techno-rhythms-return/z1404-industrial-techno-rhythms-return-combined.mid",
+      "bytes": 6004,
+      "sha256": "2642c4418fb6a6c73a530507a13bfa974b982ddb1eca8e95c0a2afdb10f56bb4",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

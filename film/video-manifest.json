@@ -1,0 +1,26 @@
+{
+  "title": "Industrial Techno Rhythms",
+  "study": "z1401",
+  "bpm": 132,
+  "source_audio": "preview/industrial-techno-rhythms-simple-synth-preview.mp3",
+  "source_audio_sha256": "0abab4ded87119807cd0f275df5e545572cc15c7f4eb85a0cac305a723dda841",
+  "source_midi": "midi/z1401-industrial-techno-rhythms-opening/z1401-industrial-techno-rhythms-opening-combined.mid",
+  "source_midi_sha256": "883f182fd090fe5c74ba084cef71a5e95a57e2b4cbaf2715a2f313e62ee4ad87",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "ff9d60107e4b950ba31a566eb02e5cbab3d0a354822d598e87cd921b23f720ea",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "ac94d71ffa6b54d4af4c781dce73b76378c0ca26b3509464f39d3e7890a53b5b",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "3d526c141f3af160814e0e8d71f72d291caf61f350c69d051de47e7d22f5d798",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

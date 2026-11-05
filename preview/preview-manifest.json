@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/industrial-techno-rhythms-simple-synth-preview.mp3",
+  "preview_sha256": "0abab4ded87119807cd0f275df5e545572cc15c7f4eb85a0cac305a723dda841",
+  "source_midi_path": "midi/z1401-industrial-techno-rhythms-opening/z1401-industrial-techno-rhythms-opening-combined.mid",
+  "source_midi_sha256": "883f182fd090fe5c74ba084cef71a5e95a57e2b4cbaf2715a2f313e62ee4ad87",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "z1401",
+    "start_seconds": 0,
+    "end_seconds": 58.182
+  },
+  "measurement": {
+    "sample_peak": 0.132901,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}
