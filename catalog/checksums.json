@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/industrial-techno-rhythms-midi.zip",
-      "bytes": 33081,
-      "sha256": "b5355b85b876661297f9e17207245dba3d3349549f5c722ad445048082b42f49"
+      "bytes": 34068,
+      "sha256": "7535d40e021ba2a8b25dff954f8d267e824ceccb05fbb33ab08d43eca4891437"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10044,
-      "sha256": "c310c1c6f669925e95b08e3ad2dc63557c78d752fe2395f930a36f08a538f301"
+      "bytes": 10234,
+      "sha256": "381bdc9d8df499c369a6ba0082cdbffbe2301c43d67af3ad63d5e67d70ac6cae"
     },
     {
       "path": "midi/z1401-industrial-techno-rhythms-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "2642c4418fb6a6c73a530507a13bfa974b982ddb1eca8e95c0a2afdb10f56bb4"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/industrial-techno-rhythms-simple-synth-preview.mp3",
       "bytes": 1410029,
       "sha256": "0abab4ded87119807cd0f275df5e545572cc15c7f4eb85a0cac305a723dda841"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4002,
-      "sha256": "e702f3165b8e94e3966b59d6e99b704afd8167df7c9369eb147952f2fa64fed0"
+      "bytes": 4117,
+      "sha256": "cc522011f01d5d619bdf7143ff18fa1c04adb256b36a055cf65aa2cb34bf6dd7"
     },
     {
       "path": "social/instagram/caption.txt",
